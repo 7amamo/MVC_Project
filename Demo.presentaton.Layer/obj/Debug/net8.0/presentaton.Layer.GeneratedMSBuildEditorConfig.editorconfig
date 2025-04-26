@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = presentaton.Layer
+build_property.RootNamespace = presentaton.Layer
+build_property.ProjectDir = E:\back-end\ASP.NET MVC\7\MVC Project\Demo.presentaton.Layer\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = E:\back-end\ASP.NET MVC\7\MVC Project\Demo.presentaton.Layer
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Account/CheckYourInBox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDaGVja1lvdXJJbkJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Account/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3JnZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Departments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Departments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Departments/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Departments/PartialViews/CreateEditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcUGFydGlhbFZpZXdzXENyZWF0ZUVkaXRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Departments/PartialViews/DetailsDeletePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudHNcUGFydGlhbFZpZXdzXERldGFpbHNEZWxldGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Employees/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Employees/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Employees/PartialViews/CreateEditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFBhcnRpYWxWaWV3c1xDcmVhdGVFZGl0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Employees/PartialViews/DetailsDeletePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVzXFBhcnRpYWxWaWV3c1xEZXRhaWxzRGVsZXRlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Role/AddOrRemoveUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGRPclJlbW92ZVVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Role/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Role/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Role/PartialViews/CreateEditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcQ3JlYXRlRWRpdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Role/PartialViews/DetailsDeletePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxQYXJ0aWFsVmlld3NcRGV0YWlsc0RlbGV0ZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Shared/_AuthLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BdXRoTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Shared/_ButtonsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CdXR0b25zUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Users/PartialViews/CreateEditPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUGFydGlhbFZpZXdzXENyZWF0ZUVkaXRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Users/PartialViews/DetailsDeletePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUGFydGlhbFZpZXdzXERldGFpbHNEZWxldGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/back-end/ASP.NET MVC/7/MVC Project/Demo.presentaton.Layer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1z6my4oyew

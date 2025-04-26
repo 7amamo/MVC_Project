@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Department>
+@{
+    ViewData["Title"] = "Index";
+}
+
+ 
+
+
+<div>
+    <a class="btn btn-primary mt-3" asp-action="Create"> Create New Department </a>
+</div>
+
+
+
+
+
+@if (Model.Any()){
+
+<h1>All Department</h1>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <td>@Html.DisplayNameFor(d=>d.Code)</td>
+            <td>@Html.DisplayNameFor(d => d.Name)</td>
+            <td>@Html.DisplayNameFor(d => d.Date)</td>
+
+            <td>Details</td>
+            <td>Edit</td>
+            <td>Delete</td>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var department in Model)
+        {
+            <tr>
+                <td>@department.Code</td>
+                <td>@department.Name</td>
+                <td>@department.Date</td>
+
+                <partial name="_ButtonsPartial" model="department.Id.ToString()"></partial>
+
+            </tr>
+        }
+    </tbody>
+    </table>
+}
+else
+{
+    <div class="mt-5 alert-warning">
+        <h2>No Department</h2>
+    </div>
+} 

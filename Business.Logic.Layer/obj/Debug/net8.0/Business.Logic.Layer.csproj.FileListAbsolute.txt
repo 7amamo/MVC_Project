@@ -1,0 +1,90 @@
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.deps.json
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.pdb
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.AssemblyReference.cache
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfoInputs.cache
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfo.cs
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.CoreCompileInputs.cache
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.6926A09D.Up2Date
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\refint\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\3\Assignment 3 MVC\Business.Logic.Layer\obj\Debug\net8.0\ref\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.deps.json
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.pdb
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.AssemblyReference.cache
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfoInputs.cache
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfo.cs
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.CoreCompileInputs.cache
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.6926A09D.Up2Date
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\refint\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\3\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\ref\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.deps.json
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.dll
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.pdb
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.AssemblyReference.cache
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfoInputs.cache
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfo.cs
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.CoreCompileInputs.cache
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.6926A09D.Up2Date
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\refint\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\5\Assignment 4 MVC\Business.Logic.Layer\obj\Debug\net8.0\ref\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.deps.json
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.dll
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.pdb
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.AssemblyReference.cache
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfoInputs.cache
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfo.cs
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.CoreCompileInputs.cache
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.6926A09D.Up2Date
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\refint\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\6\Assignment 6 MVC\Business.Logic.Layer\obj\Debug\net8.0\ref\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.deps.json
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.dll
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.pdb
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.AssemblyReference.cache
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfoInputs.cache
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfo.cs
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.CoreCompileInputs.cache
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.6926A09D.Up2Date
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\refint\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\7\Assignment 7 MVC\Business.Logic.Layer\obj\Debug\net8.0\ref\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.deps.json
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\bin\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.dll
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\bin\Debug\net8.0\Data.Access.Layer.pdb
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.AssemblyReference.cache
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfoInputs.cache
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.AssemblyInfo.cs
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.csproj.CoreCompileInputs.cache
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\Business.6926A09D.Up2Date
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\refint\Business.Logic.Layer.dll
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\Business.Logic.Layer.pdb
+E:\back-end\ASP.NET MVC\7\MVC Project\Business.Logic.Layer\obj\Debug\net8.0\ref\Business.Logic.Layer.dll
